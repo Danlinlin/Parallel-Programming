@@ -1,6 +1,6 @@
 # Parallel Programming
 
-This repo is the projects written in CS575 Parallel Programming course in Oregon State University.
+This repo is the projects written in CS575 Parallel Programming course at Oregon State University.
 
 ## Description
 
