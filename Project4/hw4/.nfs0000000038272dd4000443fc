@@ -1,0 +1,6 @@
+        1024,	NonSimdMul     120.77,	SimdMul     990.11,	Speedup (  8.20),	NonSimdMul     121.86,	SimdMul     978.21,	speedup (  8.03),
+        4096,	NonSimdMul     120.62,	SimdMul     958.60,	Speedup (  7.95),	NonSimdMul     122.76,	SimdMul    1027.82,	speedup (  8.37),
+       16384,	NonSimdMul     215.68,	SimdMul    1544.80,	Speedup (  7.16),	NonSimdMul     219.31,	SimdMul    1716.98,	speedup (  7.83),
+      262144,	NonSimdMul     115.97,	SimdMul     719.01,	Speedup (  6.20),	NonSimdMul     122.45,	SimdMul     898.17,	speedup (  7.33),
+     1048576,	NonSimdMul     146.90,	SimdMul     449.48,	Speedup (  3.06),	NonSimdMul     120.47,	SimdMul     717.01,	speedup (  5.95),
+     4194304,	
