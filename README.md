@@ -4,5 +4,5 @@ This repo is the projects written in CS575 Parallel Programming course in Oregon
 
 ## Description
 
-The course contains 7 projects written in C++, some projects was run using bash scripts. OpenMp and OpenCL was practiced in these projects.
+The course is focused on practical application of C++ and includes a total of 7 projects. Some of the projects were executed using bash scripts, while others were designed to practice working with OpenMP and OpenCL technologies.
 
